@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d6db4c531f60647409fad1df01f5d997
+timeCreated: 1507893951
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 200
+  forceTextureCase: -1
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: ArcadeClassic
+  fontNames:
+  - ArcadeClassic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
